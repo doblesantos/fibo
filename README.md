@@ -1,24 +1,7 @@
-# README
+# Fibonacci Rest API with RoR
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+this api is implementation of the fibonnaci algoritm in rails 
+if you want to test this api clone the repo and do a rails s then
+post to the endpoint /fibo with the number: X  in your json body
+where x is any number
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
