@@ -1,20 +1,20 @@
 # Fibonacci Rest API with RoR
 
 >this api is implementation of the fibonnaci algoritm in rails 
->if you want to test this api 
 
 ## how to use
 
-clone the repo and do a
-`<addr>`  rails s 
+###### if you want to test this api  firt clone the repo
+`rails s`
 
-post to the endpoint /fibo with the json 
-`<addr>` {"index": X}
+###### post to the endpoint 
+`/fibo` with the json `{"index": X}`
 
-where X is any natural number
+where `X` is any **natural number**
+## who to see the actual implementation
 
 the code is under 
-`<addr>` /app/controller/fibo_controller
+`/app/controller/fibo_controller`
 
 >this was made in rails for the agile development, in future version maybe i will add frontend >to this and maybe i can cache previus calculations using redis also i can deploy it to heroku 
 
