@@ -1,17 +1,17 @@
 # Fibonacci Rest API with RoR
 
->this api is implementation of the fibonnaci algoritm in rails 
+>this api is implementation of the fibonnaci algorithm in rails 
 
 ## how to use
 
-###### if you want to test this api  firt clone the repo
+###### if you want to test this api  firts clone the repo
 `rails s`
 
 ###### post to the endpoint 
 `/fibo` with the json `{"index": X}`
 
 where `X` is any **natural number**
-## who to see the actual implementation
+## how to see the actual implementation
 
 the code is under 
 `/app/controller/fibo_controller`
