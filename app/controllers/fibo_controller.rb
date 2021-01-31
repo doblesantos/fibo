@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class FiboController < ApplicationController
-  def caculate
+  def calculate
     index = params.require(:index)
 
     secuense = fib(index)
