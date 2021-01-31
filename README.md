@@ -7,8 +7,7 @@
 first clone the repo then run:
 
 1) `bundle install` 
-
-2)`rails s`
+2) `rails s`
 
 >you will need to have ruby 2.6.6 in your computer
 
