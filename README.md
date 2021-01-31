@@ -5,8 +5,10 @@
 
 ### for local if you want to test this api  
 first clone the repo then run:
-`bundle install`
-`rails s`
+
+1) `bundle install` 
+
+2)`rails s`
 
 >you will need to have ruby 2.6.6 in your computer
 
